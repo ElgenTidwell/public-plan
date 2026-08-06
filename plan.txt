@@ -29,3 +29,7 @@ Anyway, back to packaging the SDK update....
 
 
 Well, there it is! 6 new people. Well, 6 new people invited, 2 new people in the server so far. I really hope that testing continues to go well.... I mean, it's probably a bit silly to be worried, isnt it? 2 rounds of 4 people have already LOVED what they saw, and they saw a way worse version than these guys will. I guess it's just an adjustment to have my programming projects not be a big stinker.. haha. I am excited though!
+
+
+
+* apparently the SDK bootstrapper (which is the first and only program I've ever made with GO) sometimes needs users to install a zenity package, but only on linux? weird. Go is a weird language.
