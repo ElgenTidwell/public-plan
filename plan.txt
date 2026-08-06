@@ -10,3 +10,4 @@ Format will be as follows:
 + this is a bug that I've fixed.
 
 Have fun spying on me........ haha :)
+Github was being weird. Let's see if this one get's added and pushed properly.
