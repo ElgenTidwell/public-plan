@@ -1,15 +1,11 @@
 
 == 2026-08-06 ==
-Hello! This is my first entry. I'm starting a plan file - a la John Carmack. I figure this might be fun for people who maybe want to follow what I'm doing, specifically with Chisel for the time being.
-
-Format will be as follows:
-
-
-* this is something I just have a comment about.
-? this is something, like a bug, that I've noticed.
-+ this is a bug that I've fixed.
-
-Have fun spying on me........ haha :)
-Github was being weird. Let's see if this one get's added and pushed properly.
+Hello, and welcome to my public plan! This is where I will be posting updates and hopefully keeping myself somewhat accountable as time marches on and Chisel gets closer to release.
 
-Hm. And now I've setup this plan to hopefully show on the Chisel site! Though, I need to be mindful of my newlines I suppose... they look quite big dont they?
+Here's the actual format for this:
+
+* this star represents something I've noticed. Not really bad nor good, but just an observation.
+? this question mark represents a bug I've found, and
++ represents a bug I've fixed.
+
+Thanks for stopping by! I have some things to do already, but I'll update more here when that's actually closer.
