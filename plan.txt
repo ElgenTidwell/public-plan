@@ -26,3 +26,6 @@ As for those dumb bugs, apparently the entity thing was caused by an old ancient
 
 Wow, bash scripts are so easy. I just wrote one to completely recompile my maps folder at will for when I change the map spec. I expected a lot more of a wonky syntax but it's pretty simple stuff.
 Anyway, back to packaging the SDK update....
+
+
+Well, there it is! 6 new people. Well, 6 new people invited, 2 new people in the server so far. I really hope that testing continues to go well.... I mean, it's probably a bit silly to be worried, isnt it? 2 rounds of 4 people have already LOVED what they saw, and they saw a way worse version than these guys will. I guess it's just an adjustment to have my programming projects not be a big stinker.. haha. I am excited though!
