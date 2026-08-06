@@ -1,0 +1,12 @@
+
+== 2026-08-06 ==
+Hello! This is my first entry. I'm starting a plan file - a la John Carmack. I figure this might be fun for people who maybe want to follow what I'm doing, specifically with Chisel for the time being.
+
+Format will be as follows:
+
+
+* this is something I just have a comment about.
+? this is something, like a bug, that I've noticed.
++ this is a bug that I've fixed.
+
+Have fun spying on me........ haha :)
