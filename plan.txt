@@ -9,3 +9,20 @@ Here's the actual format for this:
 + represents a bug I've fixed.
 
 Thanks for stopping by! I have some things to do already, but I'll update more here when that's actually closer.
+
+
+Well, I've updated the site, and I've been working a lot more on the map logic scripting stuff. I have new docs on that, a bunch of new utilities that the scripts can use, etc etc.
+
+I hope to get my update out to testers today. This one was pretty nice but not as crazy as others, and also had a lot of dumb fixes like:
++ entities save and load in their *exact* position, rather than weirdly bumping around occasionally. More on this below.
++ weapon mags in the FPS template properly save their current ammo as well as reserve.. whoops.
++ RW2 doesnt crash when pressing "tab" on non enitities or hints. Another silly whoops. Dunno how that one really slipped through.
+
+I want to bring on my third wave of testers today, I wanted to plan for 4 waves of 4 people each, but I think I wanna up the numbers on these next two waves. One of the testers might even have a small little "crew" hopping in as well which would be super interesting to see. Can't say I'm not a little nervous... but doing this testing is making me slowly realize I probably don't need to be.
+
+As for those dumb bugs, apparently the entity thing was caused by an old ancient bug from before I had a physics engine, which was overriding my very thoughtful matrix math to properly position and rotate the entity origin based on the bounds size for the physics engine... figures. At least it was an easy fix. Mags was simply because I'd migrated the weapons system... again... hopefully for the last time, and I completely reworked how the ammo systems worked. Just glossed over that part of it by accident, easy fix. All in all, as of 0.2.0 and now 0.2.1 with all of this stuff the engine is already getting very very stable. I'm really eager to see what happens further into testing as I bring on people with "higher expectations".
+
+
+
+Wow, bash scripts are so easy. I just wrote one to completely recompile my maps folder at will for when I change the map spec. I expected a lot more of a wonky syntax but it's pretty simple stuff.
+Anyway, back to packaging the SDK update....
