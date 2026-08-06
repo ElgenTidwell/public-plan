@@ -11,3 +11,5 @@ Format will be as follows:
 
 Have fun spying on me........ haha :)
 Github was being weird. Let's see if this one get's added and pushed properly.
+
+Hm. And now I've setup this plan to hopefully show on the Chisel site! Though, I need to be mindful of my newlines I suppose... they look quite big dont they?
