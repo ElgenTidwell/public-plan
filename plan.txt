@@ -66,3 +66,6 @@ Alright, before I go to bed for the day I want to setup some actual plans for to
 * General code pass-through, like the 50th time, to make sure the nasty legacy dinosaur code is gone, make sure comments are accurate, and document poorly documented classes
 
 There is probably more that I'll need to do.. but for now that's about all I can think of. Even all that alone would make a big difference.
+
+
+Agh, noo a typo! I meant clean up MODEL editor UI, not map editor.
