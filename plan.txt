@@ -88,3 +88,13 @@ Hopefully I get it done soon cause I really am excited to be at this stage with 
 
 
 I'm kinda realizing that built in networking might be something I'm willing to tackle after all... I'm gonna have to sit on it more but I like the idea.
+
+
+Much busier day than I expected -- it's only 3 o clock! It's felt like 6PM all day for some reason. I feel really good about how much I was able to do today... though my eyes are going square from staring at the screen so long. Could definitely use a walk.
+
+
++ Fixed a Rockwall 2 crash that occurred when selecting inputs.. somehow
++ Fixed some output fields not refreshing properly on classname change
++ Fixed IO scripts, they apparently had incorrect handling of standalone function calls like `random()`, and I somehow also forgot the basic += -= *= /= ++ --. I should add ternary operators, structs, classes, etc... At that point though, I might fork it off away from chisel as "yet another scripting language that 2 people will use (tm)" like squirrel or lua or shmua dua bua whatever.
+
+Anyway, that's what I got done so far!
