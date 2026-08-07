@@ -69,3 +69,19 @@ There is probably more that I'll need to do.. but for now that's about all I can
 
 
 Agh, noo a typo! I meant clean up MODEL editor UI, not map editor.
+
+== 2026-08-07 ==
+Rough night, but a pretty good morning actually! I feel quite productive.
+
+? Noticed that models attached via their *own* attachments have some weird scaling problem inherited from weird bone stuff
+
+
++ Fixed particle ed timeline
++ Added solo/mute in particle ed
+
+and I'm currently working on fixing up the model editor.
+
+
+Oops, I started shaving yaks instead! It's okay, I'm working on a new video script and that's definitely something I should be doing at the moment. It wont take long... patience Chisel....
+
+Hopefully I get it done soon cause I really am excited to be at this stage with Chisel... lol.
