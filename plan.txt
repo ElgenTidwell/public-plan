@@ -98,3 +98,8 @@ Much busier day than I expected -- it's only 3 o clock! It's felt like 6PM all d
 + Fixed IO scripts, they apparently had incorrect handling of standalone function calls like `random()`, and I somehow also forgot the basic += -= *= /= ++ --. I should add ternary operators, structs, classes, etc... At that point though, I might fork it off away from chisel as "yet another scripting language that 2 people will use (tm)" like squirrel or lua or shmua dua bua whatever.
 
 Anyway, that's what I got done so far!
+
+
+Phew! Today was a busy day! But, it's 4PM now, and I think I'm gonna leave things there for today. I think I got a good amount done, and tomorrow I can work more on the video script & my other little tasks.
+
+For now, though, I ought to start getting in better habits again, so I will be trying to keep myself restricted to some kind of "schedule" with working on things.
