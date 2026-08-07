@@ -85,3 +85,6 @@ and I'm currently working on fixing up the model editor.
 Oops, I started shaving yaks instead! It's okay, I'm working on a new video script and that's definitely something I should be doing at the moment. It wont take long... patience Chisel....
 
 Hopefully I get it done soon cause I really am excited to be at this stage with Chisel... lol.
+
+
+I'm kinda realizing that built in networking might be something I'm willing to tackle after all... I'm gonna have to sit on it more but I like the idea.
