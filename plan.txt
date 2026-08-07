@@ -47,3 +47,22 @@ I get to pull the lever, I get to decide when it's "done" (which I'm sure it'll 
 Obviously, I am excited at the end of the day. How could I not be? I'm releasing my mega passion project to the world, that's awesome! And truly, all outcomes from releasing Chisel are all equally as awesome to me. I just really wish I could make some kind of equation or something to logic-out this anticipation of waiting. I'll be happy I didn't find some magic formula when it DOES release, and I'll probably look back and say "Elgen, you dunce". Hi future me.
 
 Anyway, thanks for reading my ramblings here if you did. Normal development logging stuff will return now haha. 
+
+
+Alright, before I go to bed for the day I want to setup some actual plans for tomorrow. I really dont have much in the way of any more features I want to add, like, literally 0 at all. But I can do some editor work tomorrow because it needs some love.
+
+
+* Fix that weird particle editor timeline thing
+* Allow solo/mute in the particle editor
+* Double check all particle features are exposed in the particle editor
+
+* Clean up map editor and particle editor UI to match the new map editor UI
+* More clearly show that the morph animator needs a model opened, but the choreo editor doesnt (possibly the choreo window is a whole separate window/tab to best demo)
+* Fix that weird hitbox bug when in the preview tab of the model editor
+* Investigate and fix the strange behavior when trying to add new attachment points
+
+
+* Go through and clean up model, morph, choreo, and particle sections of the codebase. Document them all clearly both with comments and updated documentation on the site
+* General code pass-through, like the 50th time, to make sure the nasty legacy dinosaur code is gone, make sure comments are accurate, and document poorly documented classes
+
+There is probably more that I'll need to do.. but for now that's about all I can think of. Even all that alone would make a big difference.
