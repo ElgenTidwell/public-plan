@@ -33,3 +33,7 @@ Well, there it is! 6 new people. Well, 6 new people invited, 2 new people in the
 
 
 * apparently the SDK bootstrapper (which is the first and only program I've ever made with GO) sometimes needs users to install a zenity package, but only on linux? weird. Go is a weird language.
+
+Seems all in all that linux support is everywhere at the moment. Kind of strange, I've tested on distros before and never really had issues, but I'm not much of a linux-head either so who knows. I imagine it has something to do with the inherent unreliability of linux systems -- that being that they could literally be running any desktop, any window manager, and whatever else. So I have to imagine that makes making frameworks like .NET a bit of a tricky problem to solve.
+
+In other news, it does seem that testing is going okay so far? I mean, it's still day-of, but there have been no crazy terrible issues. That sort of goes for all of testing. Just a bit shocking to me, I suppose.
