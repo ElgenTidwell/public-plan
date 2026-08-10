@@ -106,3 +106,12 @@ For now, though, I ought to start getting in better habits again, so I will be t
 
 == 2026-08-09 ==
 Just another throwaway update, spent time with family this weekend! I've got plenty to do this week :)
+
+== 2026-08-10 ==
+
+Alright, I obviously will find more on my way but heres my list of bugs and plans for today:
+
+? Investigate duplication crash in rockwall 2
+* Add scale selection gizmos in 2D
+* When in 2D, disallow moving only faces (makes no sense in 2D and the scale would nullify using it)
+* Possibly merge the select, move, and rotate tools into ONE. The select tool allows you to rotate and move in 3D by right clicking to toggle modes. Seems intuitive, and it allows the 2D view to also have gizmos for all of these operations at once without feeling weird
