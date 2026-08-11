@@ -123,3 +123,10 @@ Today was a decent day, I
 + various other little tweaks and patches
 
 I found out about a language called Beef, it seems pretty interesting. I'm gonna mess around with it and see what it has to offer just for fun, but I could definitely see myself using it for future projects! I'd say give it a whirl if you like C# but also like the control of C++.
+
+== 2026-08-11 ==
+
+Hello again! Today I've already hit the ground running by
++ Adding a line-trace for leaks, so that they show up in the editor after a failed map compile
+
+and I'm currently working on adding WATER to the FPS template! FuncFluid already exists, but specifically I'm working on adding planar reflections, and demoing custom shaders with the water.
