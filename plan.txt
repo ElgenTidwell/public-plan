@@ -115,3 +115,11 @@ Alright, I obviously will find more on my way but heres my list of bugs and plan
 * Add scale selection gizmos in 2D
 * When in 2D, disallow moving only faces (makes no sense in 2D and the scale would nullify using it)
 * Possibly merge the select, move, and rotate tools into ONE. The select tool allows you to rotate and move in 3D by right clicking to toggle modes. Seems intuitive, and it allows the 2D view to also have gizmos for all of these operations at once without feeling weird
+
+Today was a decent day, I
++ fixed some bugs with brush creation, that maybe were causing the dupe bug?
++ added a scale tool to 2D
++ merged select/move/rotate into the select tool, which you can switch through with Q
++ various other little tweaks and patches
+
+I found out about a language called Beef, it seems pretty interesting. I'm gonna mess around with it and see what it has to offer just for fun, but I could definitely see myself using it for future projects! I'd say give it a whirl if you like C# but also like the control of C++.
