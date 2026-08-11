@@ -130,3 +130,8 @@ Hello again! Today I've already hit the ground running by
 + Adding a line-trace for leaks, so that they show up in the editor after a failed map compile
 
 and I'm currently working on adding WATER to the FPS template! FuncFluid already exists, but specifically I'm working on adding planar reflections, and demoing custom shaders with the water.
+
+
+Monogame has some absolutely retarded limitations... likely because of old DX stuff that had to get carried over and whatever. The more and more time goes on the more I wonder if it'd be worth just making my own fork to fix these annoyances.
+
+I think I will
