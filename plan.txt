@@ -141,3 +141,12 @@ I was able to
 + Add refraction shaders
 
 Which helps to add to the overall visual fidelity! Tomorrow I think I'll dedicate some time to this video I want to put together, but I'll probably also push out a new update to people and maybe bring in a few more.
+
+== 2026-08-12 ==
+
+I forked monogame.
+Immediately I was able to fix tons of things, and was able to migrate it to GL 3.2 which should hopefully run better now that I can control more of the VAO, VBO, and EBO stuff. I've also implemented the MultiDraw* functions, which have been used to reduce the API calls to just a few per frame. The GPU is still doing a lot of work, but the back and forth is nearly gone.
+
+I do know now what's causing the rest of my performance issues though, and that's MojoShader's terrible shader conversion. I have plans to migrate everything to direct GLSL, which will also allow me to directly bake the engine shaders into the engine itself, which is a nice bonus.
+
+All of this should add up to a much much much more performant renderer!
