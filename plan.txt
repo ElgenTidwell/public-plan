@@ -135,3 +135,9 @@ and I'm currently working on adding WATER to the FPS template! FuncFluid already
 Monogame has some absolutely retarded limitations... likely because of old DX stuff that had to get carried over and whatever. The more and more time goes on the more I wonder if it'd be worth just making my own fork to fix these annoyances.
 
 I think I will
+
+I was able to
++ Add planar reflections
++ Add refraction shaders
+
+Which helps to add to the overall visual fidelity! Tomorrow I think I'll dedicate some time to this video I want to put together, but I'll probably also push out a new update to people and maybe bring in a few more.
