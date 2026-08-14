@@ -165,3 +165,7 @@ The new framework is pretty great, but concerns about how much it could set back
 
 
 Everything MG is all good! Reverted back to the MG version and did some more updates! I want to try and get a new tester-build out tomorrow, and bring on more people either tomorrow or this weekend.
+
+== 2026-08-14 ==
+
+Just pushed 0.3.0 out to testers, so we'll see what they do with that. I was able to get a bunch of water/reflection/refraction stuff done, which is good. It was one of those things that made the engine feel really incomplete to me... it's hard to think I'm near release. Part of me wants to release it tomorrow, and part of me thinks it'll never be ready. I think to some extent I'll never truly feel like it's 1.0 ready, but I think I'm slowly getting to a point where I'm more and more happy with it. I'm slowly getting more like "yeah, if this came out tomorrow I'd be alright with that". I've obviously still got work to do, but if I stay on pace... I project anywhere from a handful of weeks to a couple months. That's a strange thought.
