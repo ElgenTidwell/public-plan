@@ -162,3 +162,6 @@ Stay tuned!
 
 
 The new framework is pretty great, but concerns about how much it could set back development are making me think I should just save it for whatever I do next. I'm going to put it on the backburner and return Chisel back to my weird monogame fork.
+
+
+Everything MG is all good! Reverted back to the MG version and did some more updates! I want to try and get a new tester-build out tomorrow, and bring on more people either tomorrow or this weekend.
