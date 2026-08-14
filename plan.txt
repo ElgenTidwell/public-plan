@@ -153,3 +153,9 @@ All of this should add up to a much much much more performant renderer!
 
 
 Well, as much as forking monogame gave freedom... it also didnt. I think I've decided that now is as good of a time as any to finally move on from monogame, so my other developer (new!) and I are working on a NEW framework to run Chisel under. Hopefully it shouldnt take too long, but it should be worth it :)
+
+== 2026-08-13 ==
+
+Sorry for not writing much! I've been very busy on the new framework. This is shaping up to be an amazing addition to Chisel! We have just as of today completely rounded off the dual-api system, so it can now run on GL or DX by a single flip of a switch! (Take that MonoGame!). Currently, I'm working on bringing over mipmap generation things, and I'm considering moving the audio engine to the framework as well.
+
+Stay tuned!
